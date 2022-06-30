@@ -1,2 +1,2 @@
 # Sorting-Visualizer
- Recent Proeject that I enjoyed making
+ Recent Project that I enjoyed making
